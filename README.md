@@ -118,10 +118,11 @@ The analysis also revealed differences in revenue across age groups, marital sta
 - Data visualisation
 - Business-focused interpretation
 
-## Project Structure
+## Project Files
 
-- `README.md` — Project documentation
-- `DD_Sales_Project.xlsx` — Excel workbook containing the data analysis, Pivot Tables, and dashboard
+- `DD Sales Dataset.xlsx` – Excel dataset containing the sales and customer data used for the analysis, pivot tables and dashboard.
+- `DD_Sales_Dashboard.png` – Screenshot of the completed Excel dashboard.
+- `README.md` – Project documentation, including the analysis overview, key findings, and recommendations.
 
 ## Conclusion
 
