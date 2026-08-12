@@ -87,6 +87,10 @@ The dashboard includes:
 - Customer segments
 - Customer count by country
 
+- ## Dashboard Visualisation
+
+![DD Sales Dashboard](./DD_Sales_Dashboard.png)
+
 ## Key Findings
 
 The analysis generated total revenue of approximately **$21.76 million** across **17,422 customers**.
